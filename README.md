@@ -1,7 +1,10 @@
-# Capstone Project - Pemrogramman Berbasis Web 
+# Capstone Project - Pemrogramman Berbasis Web
 
 Strictly needed :
-- img/
-- index.html
-- style.css
-- script.js
+
+| Files/Dirs |                           Usage                            |
+| :--------- | :--------------------------------------------------------: |
+| img/       |                 Untuk menaruh semua gambar                 |
+| index.html |                         file HTML                          |
+| style.css  | file css untuk custom tambahan dan meng-overrite bootstrap |
+| script.js  |                      file JavaScript                       |
