@@ -1,5 +1,11 @@
 # Capstone Project - Pemrogramman Berbasis Web
 
+Installation Runner :
+- Jalankan `docker compose up --build`
+- buka browser lalu ketik :
+    - `localhost:8085/login.php`
+    - `localhost:8085/koneksi.php`
+
 Strictly needed :
 
 | Files/Dirs |                           Usage                            |
